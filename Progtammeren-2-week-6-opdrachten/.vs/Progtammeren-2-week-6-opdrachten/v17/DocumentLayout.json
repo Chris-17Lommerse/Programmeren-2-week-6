@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE86932-09E5-4C2C-A6A5-846B55E1FAB8}|Assignment6\\Assignment6.csproj|c:\\programmeren\\programmeren-2-week-6\\progtammeren-2-week-6-opdrachten\\assignment6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE86932-09E5-4C2C-A6A5-846B55E1FAB8}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803B56AC-42F5-4719-A07B-C078ED5BA477}|Assignment5\\Assignment5.csproj|c:\\programmeren\\programmeren-2-week-6\\progtammeren-2-week-6-opdrachten\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803B56AC-42F5-4719-A07B-C078ED5BA477}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E077EA-39E1-4479-A173-39272A38CCF9}|Assignment4\\Assignment4.csproj|c:\\programmeren\\programmeren-2-week-6\\progtammeren-2-week-6-opdrachten\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E077EA-39E1-4479-A173-39272A38CCF9}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C6912D-BAAB-49EE-9D6B-BEE393BB10B3}|Assignment3\\Assignment3.csproj|c:\\programmeren\\programmeren-2-week-6\\progtammeren-2-week-6-opdrachten\\assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C6912D-BAAB-49EE-9D6B-BEE393BB10B3}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD02B75E-C4AC-428E-BEC4-9234CB2C0080}|Assignment2\\Assignment2.csproj|c:\\programmeren\\programmeren-2-week-6\\progtammeren-2-week-6-opdrachten\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD02B75E-C4AC-428E-BEC4-9234CB2C0080}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F02B8CC-3F4B-4FFE-A81A-F4A0EC0AA78B}|Assignment1\\Assignment1.csproj|c:\\programmeren\\programmeren-2-week-6\\progtammeren-2-week-6-opdrachten\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F02B8CC-3F4B-4FFE-A81A-F4A0EC0AA78B}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment6\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Program.cs",
+              "ToolTip": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment6\\Program.cs",
+              "RelativeToolTip": "Assignment6\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:17:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Program.cs",
+              "ToolTip": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment5\\Program.cs",
+              "RelativeToolTip": "Assignment5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:17:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program.cs",
+              "ToolTip": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment4\\Program.cs",
+              "RelativeToolTip": "Assignment4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:16:42.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Program.cs",
+              "ToolTip": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment3\\Program.cs",
+              "RelativeToolTip": "Assignment3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:49:40.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:21:33.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Programmeren\\Programmeren-2-week-6\\Progtammeren-2-week-6-opdrachten\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:41:30.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\bin\Debug\net8.0\Assignment3.exe
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\bin\Debug\net8.0\Assignment3.deps.json
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\bin\Debug\net8.0\Assignment3.dll
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\bin\Debug\net8.0\Assignment3.pdb
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\Assignment3.dll
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\refint\Assignment3.dll
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\Assignment3.pdb
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+C:\Programmeren\Programmeren-2-week-6\Progtammeren-2-week-6-opdrachten\Assignment3\obj\Debug\net8.0\ref\Assignment3.dll
